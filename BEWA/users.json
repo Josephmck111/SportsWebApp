@@ -1,0 +1,641 @@
+[
+    {
+        "_id": {
+            "$oid": "67c5f5d9e263020ae4b1ac38"
+        },
+        "name": "Adam Speers",
+        "username": "adams",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJExGRlEwOVk0TVBzZWU4NGFRblpNYnV2ZE5QbXM0cWNValE3MjNUNDc2RTlEZXFCd3hoRFRt",
+                "subType": "00"
+            }
+        },
+        "email": "adams@glen.net",
+        "admin": true
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5d8e263020ae4b1ac37"
+        },
+        "name": "Rory Kavanagh",
+        "username": "roryk",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJFpqTlouOTBXUnBPVmN3MGJoZGpwUnVhMi5sc21hUDRHTmFRSUROaXhUb1czT3NyYTNSZHhp",
+                "subType": "00"
+            }
+        },
+        "email": "roryk@glen.net",
+        "admin": true
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5d9e263020ae4b1ac3a"
+        },
+        "name": "John McCamley",
+        "username": "johnm",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJDNSLzNZRDhURjV3RHgyaFBEZXVnbWU0VjUydzJuUXNtNlpEQkhHR0tHdVRPNFN2eDkwTjh1",
+                "subType": "00"
+            }
+        },
+        "email": "johnm@glen.net",
+        "admin": true
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5d8e263020ae4b1ac36"
+        },
+        "name": "Joe McKenna",
+        "username": "Joem",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJC83cE9GOTJLMnlXc1AySEdqLy9mcmV3ZXRONVJ0bzBxTWZaMEM3d3pZNndTajJSei9MSHN1",
+                "subType": "00"
+            }
+        },
+        "email": "joem@glen.net",
+        "admin": true
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5d9e263020ae4b1ac39"
+        },
+        "name": "David",
+        "username": "davidd",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJGZ4U1Mxamt6cmlvVXd2UEFONVUxcnVMbC9qakRPRWtLUW1HWmZOaThPaWljYjdVR21nWTY2",
+                "subType": "00"
+            }
+        },
+        "email": "davidd@glen.net",
+        "admin": true
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dae263020ae4b1ac3b"
+        },
+        "name": "Stephen Convery",
+        "username": "stephenc",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJC9uNTNJbjJTRFdpNDNGcE1mbDlxY09mMUNONjR1RGNUcmxsdUZ0WGpHQUkyaTVwN3M0d3c2",
+                "subType": "00"
+            }
+        },
+        "email": "stephenc@glen.net",
+        "admin": true
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dae263020ae4b1ac3d"
+        },
+        "name": "Connor Carville",
+        "username": "connorc",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJE45LjlIaU9QQzZEaElzOTFhMWVoZHVDQjA3VUN5VkQwVlVNLnQ3Tk1pUkQ1U1FsZzkwU3ZL",
+                "subType": "00"
+            }
+        },
+        "email": "connorc@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dae263020ae4b1ac3c"
+        },
+        "name": "Ciaran McFaul",
+        "username": "ciaranm",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJEUxSFROc0Z3SWRRSmVjci9LUHhJNmUybkFHeENYWDh6R211UTkvcDlWckUyOEg4VlpYL3F5",
+                "subType": "00"
+            }
+        },
+        "email": "ciaranm@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dae263020ae4b1ac3e"
+        },
+        "name": "Spike",
+        "username": "spikew",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJDcwclZJODNqTDlrWm93VkNWV0VmMHVMd0hoR3BFNWRESFoua1RsQzJHR2N1TFA1eGI5LmIu",
+                "subType": "00"
+            }
+        },
+        "email": "spikew@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dbe263020ae4b1ac3f"
+        },
+        "name": "Dougie",
+        "username": "dougie",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJDQwazBacmtNeXBFYTNLazBPMWtlci5rYWQ0MFNXQ3VzTXU2Zk9qWW53emp4N0dRZXJudTE2",
+                "subType": "00"
+            }
+        },
+        "email": "dougie@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dce263020ae4b1ac43"
+        },
+        "name": "Conor Glass",
+        "username": "conorg",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJDJWR3JVdWJZbGF1Li9KYldjOUhCSWVqQ2FJamtRL21aeW5EYWRGWTViRnBaWlF2Z05GOU1H",
+                "subType": "00"
+            }
+        },
+        "email": "conorg@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dbe263020ae4b1ac40"
+        },
+        "name": "Cathal Mulholland",
+        "username": "cathalm",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJE9GZjZUM1VCVlBQRHpEOTNpbzBYaE9Id25MOEJSaHouamdOUldFQ2xpRFhBMWVyLmdmcTMu",
+                "subType": "00"
+            }
+        },
+        "email": "cathalm@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dce263020ae4b1ac42"
+        },
+        "name": "Ethan Doherty",
+        "username": "ethand",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJG9RcEhBWjRlTFJaSDlOTzRKYTJKdWVWZ1RKb3k3YUEuaW4xWVJLU2dGY0p2QjVaNzVDSGxD",
+                "subType": "00"
+            }
+        },
+        "email": "ethand@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dce263020ae4b1ac44"
+        },
+        "name": "Connlan Bradley",
+        "username": "connlanb",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJHBsRHhBaENDc1VvdlpxcHZQNUI0V3VORUxXdnFpYXdDOC4vNWNnVmlhZ3I5RjVkbzdJZmZh",
+                "subType": "00"
+            }
+        },
+        "email": "connlanb@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dde263020ae4b1ac45"
+        },
+        "name": "Emmett Bradley",
+        "username": "emmettb",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJHpQbWZMZ0wzMUdBaFlIckxOYUVUdnU4d3l0Q05neHQ5bmNWaXAuTVdSRzRLc25mQlNES3ND",
+                "subType": "00"
+            }
+        },
+        "email": "emmettb@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dbe263020ae4b1ac41"
+        },
+        "name": "Dom Carville",
+        "username": "domc",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJDhIcThOTHFWLmpaVTRDYXJVNm9hUE9GTE1OSFhUU0pCMmpXZWowLk1DTXhtRThvL2hPd1N5",
+                "subType": "00"
+            }
+        },
+        "email": "domc@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dde263020ae4b1ac46"
+        },
+        "name": "Stevie Ohara",
+        "username": "stevieo",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJFU0TXphTDJodC5Hc3RXd3hPVWtVSXVXdi9ua2liVXBJMUxkYkRYT3UxemthZWEuNFRJQ2RH",
+                "subType": "00"
+            }
+        },
+        "email": "stevieo@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dde263020ae4b1ac47"
+        },
+        "name": "Eunan Mulholland",
+        "username": "eunanm",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJFdJUEYwYU9GQ1FDdlIvN1R6dkhNTWVUanIzTVUzMzMwS2FjTHYzYlh4dG8zcFJ2cHNpUXl1",
+                "subType": "00"
+            }
+        },
+        "email": "eunanm@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dee263020ae4b1ac48"
+        },
+        "name": "Jack Doherty",
+        "username": "jackd",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJFJKU1RLdEJ3cTdtWXRZYS5hMmpCSWVCVDFtenAxMGpObnV3Q1BOQVdVU3k3NE1heGFobXVp",
+                "subType": "00"
+            }
+        },
+        "email": "jackd@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dee263020ae4b1ac49"
+        },
+        "name": "Tiarnan Flanagan",
+        "username": "tiarnanf",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJENLalVkRzJCdUhWb2VJYksuQlR4MU96MkhadGt3TWczTzZRS0Jkd2FvLkVjU3dYbzdBRS9x",
+                "subType": "00"
+            }
+        },
+        "email": "tiarnanf@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dfe263020ae4b1ac4b"
+        },
+        "name": "Alex Doherty",
+        "username": "alexd",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJGEuTFlHNWFjblo2NEVSVjlvamU3VWVURGV6MzlQY0xYLnU0aHM0LmEudDRyOS9EVnFNRURL",
+                "subType": "00"
+            }
+        },
+        "email": "alexd@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dee263020ae4b1ac4a"
+        },
+        "name": "Conleth McGuckian",
+        "username": "conlethm",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJEN2R2wvLk91Nnl4eDdodjBCTHNmZXVCdUhWeGlLUVN2MzlhQVZ4RC5LRDQvVTUxanJ4ZUtp",
+                "subType": "00"
+            }
+        },
+        "email": "conlethm@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dfe263020ae4b1ac4d"
+        },
+        "name": "Andy Warnock",
+        "username": "andyw",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJEZGVm43aTJyVmVVNE5RREx5ZDYuVy5jejBQc29YcnRacnlnS0ZKS2FIWjRmajN0MlkuY3BT",
+                "subType": "00"
+            }
+        },
+        "email": "andyw@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5e0e263020ae4b1ac4f"
+        },
+        "name": "Paul Gunning",
+        "username": "paulg",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJHNrYlpzYzNOY1hYbmtuNlZYSUd5d2VBLk1OWDV0UWY3Njd6WFVleFFUTzNISFQ4UEp3US55",
+                "subType": "00"
+            }
+        },
+        "email": "paulg@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5e0e263020ae4b1ac4e"
+        },
+        "name": "Conor Convery",
+        "username": "conorc",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJHJDRkZhSVNzN0J0dlNiNW9WYm1EYS5CYlpoQU5MMGZtb0EzWk42Q3ZvOXNVZlJicHlZbk02",
+                "subType": "00"
+            }
+        },
+        "email": "conorc@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5dfe263020ae4b1ac4c"
+        },
+        "name": "Danny Tallon",
+        "username": "dannyt",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJENrMzdiZHlEbmkybk1LMEo4ZW9EUXVVSHBHcmFhQ0tQZ2tIN200TzlsOS4xTFV5MGpIL2tx",
+                "subType": "00"
+            }
+        },
+        "email": "dannyt@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5e0e263020ae4b1ac50"
+        },
+        "name": "Odhran Molloy",
+        "username": "odhranm",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJE1sTWV2VjBrMDRINzR5enlnNDlnLnVzUEFmZnVreDZMaTNCS0xqQ1A1TUlPUjlqNDV0dEVH",
+                "subType": "00"
+            }
+        },
+        "email": "odhranm@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5e0e263020ae4b1ac51"
+        },
+        "name": "Conleth Lagan",
+        "username": "conlethl",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJDRkWkhUMXZjellqTTFGTGFhV0Z5LmVtbHREOWIwTTZYMkNSYm5URWY4QnkvWllxSDJOUkpt",
+                "subType": "00"
+            }
+        },
+        "email": "conlethl@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5e1e263020ae4b1ac52"
+        },
+        "name": "Johnny McGuckian",
+        "username": "johnnym",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJE11MmJxaGMuNlNJdzQxM3AuUk05NU9xQWMzU2NVUE1waVRYN1cyNGQvUkNrRlFKMXJzRnhH",
+                "subType": "00"
+            }
+        },
+        "email": "johnnym@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5e1e263020ae4b1ac54"
+        },
+        "name": "Conor Gallagher",
+        "username": "conorg",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJEZZcUlCR2ZmbnhvM0JxbllnYnp0Ri5kN2ZyNWpIWUpPWUp1Nm9pN09SQkk5cEh0V1hCRnhH",
+                "subType": "00"
+            }
+        },
+        "email": "conorg@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5e1e263020ae4b1ac53"
+        },
+        "name": "Ryan Gallagher",
+        "username": "ryang",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJEdXWjMxZk9HQmZseEtWYlJmLmxUeE9jYk43UjdVQW04LnhCZmZYWVpiTElST2xFbzVSdHhH",
+                "subType": "00"
+            }
+        },
+        "email": "ryang@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5e2e263020ae4b1ac55"
+        },
+        "name": "Cathal Gallagher",
+        "username": "cathalg",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJHBuV3MwZnlSWXV2dzRiaGVSeC4ycGU5azRwZTNsVURNTnowaVRyck5uS2VRdjdzTGVrRjEu",
+                "subType": "00"
+            }
+        },
+        "email": "cathalg@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5e2e263020ae4b1ac56"
+        },
+        "name": "Lorcan McCauley",
+        "username": "lorcanm",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJFBKRFRTSS5rSjZyQzM2alhvSjVkTHV0RWNKMWVTUEhjQnBtOXRuN2FocllQM1NCdzc3ZzF5",
+                "subType": "00"
+            }
+        },
+        "email": "lorcanm@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5e3e263020ae4b1ac59"
+        },
+        "name": "Marc Dixon",
+        "username": "marcd",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJEJ6VlFNNjF0L2I5L3RQdlpiYkg4ZS5NTlVTeDZGWG1velJvUXhlYkplOTNMU2tOLmRFNGQy",
+                "subType": "00"
+            }
+        },
+        "email": "marcd@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5e2e263020ae4b1ac57"
+        },
+        "name": "Andy Ferg",
+        "username": "andyf",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJC5raEpFRXFqT3ZwMkp5dGhuSGNRNE91ME1kZWlxbmFnM1RZMllXYWh4LnZBbVF0OERnb3lL",
+                "subType": "00"
+            }
+        },
+        "email": "andyf@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5e3e263020ae4b1ac5a"
+        },
+        "name": "Conor Bryson",
+        "username": "conorb",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJHNCeUlqeUtOT3ZxeFlnenVuSkFGNC5TdnpuQXRHdXhPZ1dvcHZ5ekt4dFJncjJWTGdYdm9H",
+                "subType": "00"
+            }
+        },
+        "email": "conorb@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5e4e263020ae4b1ac5b"
+        },
+        "name": "James Bryson",
+        "username": "jamesb",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJDQvQ1VXaFBscThMd05wMXRhYU8xMXU0V1RvRklqelN1MFBMRVYzWWxSLlR2Y0l1N2s5TjJD",
+                "subType": "00"
+            }
+        },
+        "email": "jamesb@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67c5f5e3e263020ae4b1ac58"
+        },
+        "name": "Caca Glass",
+        "username": "cacag",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJC80YURiTVZ4S2szOEdpVGZJRS5JMk9mME9hc0hXZ0lWbERHYW8xV3hNWkV2YUhnUm5wMi5t",
+                "subType": "00"
+            }
+        },
+        "email": "cacag@glen.net",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67e18cc79ccfea49fb86b01f"
+        },
+        "name": "Joseph McKenna",
+        "username": "Josephmck",
+        "password": {
+            "$binary": {
+                "base64": "VXB0aGV3YXR0aWVzMTIzNjY2IQ==",
+                "subType": "00"
+            }
+        },
+        "email": "mckenna-j28@ulster.ac.uk",
+        "admin": true
+    },
+    {
+        "_id": {
+            "$oid": "67f6a4fdbd1c3d941d08743b"
+        },
+        "name": "Joseph McKenna",
+        "username": "Joemck123",
+        "password": {
+            "$binary": {
+                "base64": "SkpNQ0sxMjM=",
+                "subType": "00"
+            }
+        },
+        "email": "joemck11@ulster.ac.uk",
+        "admin": false
+    },
+    {
+        "_id": {
+            "$oid": "67f6a5c18dc4fa941a14eb5d"
+        },
+        "name": "Joseph McKenna",
+        "username": "Joemck123",
+        "password": {
+            "$binary": {
+                "base64": "SkpNQ0sxMjM=",
+                "subType": "00"
+            }
+        },
+        "email": "joemck11@ulster.ac.uk",
+        "admin": false
+    },
+    {
+        "name": "Joseph McKenna1",
+        "username": "Joemck123",
+        "password": "Sm9lMTIzZWVl",
+        "email": "joemck11@ulster.ac.uk",
+        "admin": false,
+        "_id": "67f6a90e175d529e00d7cd36"
+    },
+    {
+        "name": "Joeeee",
+        "username": "",
+        "password": "",
+        "email": "",
+        "admin": false,
+        "_id": "67f6d511476167d45844bdbd"
+    },
+    {
+        "name": "Joseph McKenna",
+        "username": "josephmckenna11",
+        "password": "VVRXMTIzNjY2",
+        "email": "josephmckenna112@gmail.com",
+        "admin": false,
+        "_id": "67f6d62a4ebf0381135c96b3"
+    }
+]

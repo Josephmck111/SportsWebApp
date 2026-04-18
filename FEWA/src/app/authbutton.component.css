@@ -1,0 +1,13 @@
+.btn-outline-light {
+    background-color: #a9a9a9; /* Dark grey color for the button */
+    color: #000; /* Black text for the button */
+    border: none; /* Optional: Remove border */
+    padding: 10px 15px; /* Space inside the button */
+    border-radius: 5px; /* Optional: Rounded corners */
+    cursor: pointer;
+}
+
+.btn-outline-light:hover {
+    background-color: #808080; /* Slightly darker grey on hover */
+    color: #000; /* Keep text black on hover */
+}

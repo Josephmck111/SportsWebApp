@@ -1,0 +1,50 @@
+.back-button {
+  position: fixed; /* Keeps the button fixed in the viewport */
+  bottom: 20px; /* Adjusts the distance from the bottom edge */
+  right: 20px; /* Adjusts the distance from the right edge */
+  z-index: 1000; /* Ensures it's on top of other elements */
+  background-color: #a9a9a9; /* Dark grey background (same as Log out button) */
+  color: #000; /* Black text for contrast */
+  padding: 10px 15px; /* Adjust padding for spacing */
+  border-radius: 5px; /* Optional: Rounded corners */
+  cursor: pointer; /* Pointer cursor on hover */
+  border: none; /* Remove borders */
+}
+
+
+.back-button:hover {
+  background-color: #505050; /* Slightly darker grey on hover */
+  color: #000; /* Keep text black on hover */
+}
+
+.card {
+  background-color: #d3d3d3; /* Muted pastel blue */
+  color: #333; /* Dark grey text for contrast */
+  border-radius: 5px; /* Rounded corners */
+  padding: 15px; /* Inner padding */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  border: 1px solid #ddd; /* Light border for definition */
+}
+
+.card-header, .card-body {
+  color: #000; /* Black text for readability */
+}
+
+.card-body {
+  font-size: 16px; /* Text size for clarity */
+  line-height: 1.5; /* Improve spacing for readability */
+}
+
+.btn-success {
+  background-color: #a9a9a9; /* Dark grey button background */
+  color: #000; /* Black text for contrast */
+  border: none; /* Remove borders */
+  border-radius: 5px; /* Optional: Rounded corners */
+  padding: 10px 15px; /* Add spacing */
+}
+
+.btn-success:hover {
+  background-color: #808080; /* Slightly darker grey on hover */
+  color: #000; /* Keep text black on hover */
+}
+

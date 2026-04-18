@@ -1,0 +1,241 @@
+[
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e4c"
+        },
+        "No.": "1",
+        "Team": "Dungiven",
+        "Division": "1",
+        "Comments": [],
+        "Players": "40"
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e4d"
+        },
+        "No.": "4",
+        "Team": "Magherafelt",
+        "Division": 1,
+        "Comments": [],
+        "Players": 45
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e4e"
+        },
+        "No.": "5",
+        "Team": "Ballinascreen",
+        "Division": 1,
+        "Comments": [],
+        "Players": 43
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e4f"
+        },
+        "No.": "3",
+        "Team": "Slaughtneil",
+        "Division": 1,
+        "Comments": [],
+        "Players": 27
+    },
+    {
+        "_id": {
+            "$oid": "67b7ae78423ae5993ee7dd94"
+        },
+        "No.": "6",
+        "Team": "Bellaghy",
+        "Division": 1,
+        "Comments": [],
+        "Players": 32
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e50"
+        },
+        "No.": "8",
+        "Team": "Kilrea",
+        "Division": 1,
+        "Comments": [],
+        "Players": 34
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e51"
+        },
+        "No.": "7",
+        "Team": "Newbridge",
+        "Division": 1,
+        "Comments": [],
+        "Players": 39
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e52"
+        },
+        "No.": "9",
+        "Team": "Ballinderry",
+        "Division": 1,
+        "Comments": [],
+        "Players": 32
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e53"
+        },
+        "No.": "11",
+        "Team": "Claudy",
+        "Division": 2,
+        "Comments": [],
+        "Players": 24
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e54"
+        },
+        "No.": "12",
+        "Team": "Coleraine",
+        "Division": 2,
+        "Comments": [],
+        "Players": 20
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e55"
+        },
+        "No.": "10",
+        "Team": "Castledawson",
+        "Division": 2,
+        "Comments": [],
+        "Players": 34
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e57"
+        },
+        "No.": "14",
+        "Team": "Ballerin",
+        "Division": 2,
+        "Comments": [],
+        "Players": 21
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e56"
+        },
+        "No.": "13",
+        "Team": "Faughanvale",
+        "Division": 2,
+        "Comments": [],
+        "Players": 28
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e58"
+        },
+        "No.": "0",
+        "Team": "Glen",
+        "Division": 1,
+        "Comments": [],
+        "Players": 48
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e59"
+        },
+        "No.": "17",
+        "Team": "Drumsurn",
+        "Division": 2,
+        "Comments": [],
+        "Players": 26
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e5a"
+        },
+        "No.": "15",
+        "Team": "Steelstown",
+        "Division": 2,
+        "Comments": [],
+        "Players": 28
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e5b"
+        },
+        "No.": "18",
+        "Team": "Doire Trasna",
+        "Division": 2,
+        "Comments": [],
+        "Players": 21
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e5c"
+        },
+        "No.": "19",
+        "Team": "Banagher",
+        "Division": 2,
+        "Comments": [],
+        "Players": 23
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e5d"
+        },
+        "No.": "16",
+        "Team": "Glenullin",
+        "Division": 2,
+        "Comments": [],
+        "Players": 24
+    },
+    {
+        "_id": {
+            "$oid": "67c89f3aa2048507adfb1e5e"
+        },
+        "No.": "2",
+        "Team": "Lavey",
+        "Division": 1,
+        "Comments": [],
+        "Players": 29
+    },
+    {
+        "_id": {
+            "$oid": "67ed3c7532e6d7c551343b29"
+        },
+        "Team": "Glen Reserves ",
+        "Division": "3",
+        "Players": "20",
+        "Comments": []
+    },
+    {
+        "_id": {
+            "$oid": "67edc129aa417b2838915864"
+        },
+        "Team": "Glen Reserves 3",
+        "Division": "4",
+        "Players": "13",
+        "Comments": []
+    },
+    {
+        "Team": "Glen ressies",
+        "Division": "2",
+        "Players": "20",
+        "Comments": [],
+        "_id": "67f699867b28db0b60b86bd2"
+    },
+    {
+        "Team": "Glen Reserves ",
+        "Division": "3",
+        "Players": "20",
+        "Comments": [],
+        "_id": "67f6a09073a7d60bddc4e233"
+    },
+    {
+        "Team": "Glen Reserves ",
+        "Division": "4",
+        "Players": "13",
+        "Comments": [],
+        "_id": "67f6a0a173a7d60bddc4e234"
+    }
+]

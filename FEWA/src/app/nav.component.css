@@ -1,0 +1,21 @@
+.navbar {
+    background-color: #d3d3d3; /* Light grey background */
+    color: #000; /* Black text for better contrast */
+    border: none; /* Optional: Remove borders */
+    padding: 10px; /* Optional: Add padding for spacing */
+}
+
+.navbar .nav-link {
+    color: #000; /* Set link color to black */
+    text-decoration: none; /* Remove underline */
+}
+
+.navbar .nav-link:hover {
+    color: #555; /* Slightly darker shade on hover */
+    text-decoration: underline; /* Optional: Underline on hover for clarity */
+}
+
+.navbar .navbar-brand {
+    color: #000; /* Black text for the brand name */
+    font-weight: bold; /* Optional: Make it stand out */
+}
